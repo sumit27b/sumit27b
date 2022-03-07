@@ -4,7 +4,7 @@
 - 🎉 Let's connect [here](https://www.linkedin.com/in/sumitbonde/).
 
 <p align="center">
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"></code>
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
