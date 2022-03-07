@@ -20,9 +20,33 @@
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </p>
 
-
-
 ![Profile views](https://gpvc.arturio.dev/sumit27b)
+
+<hr>
+
+### 📊 My Github stats
+
+<details>
+  <summary>🔥 GitHub Streak</summary>
+  <br/>
+   <a href="https://github.com/sumit27b/github-readme-streak-stats">
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit27b&theme=jolly&hide_border=true"/>
+  </a>
+  <br/>
+</details>
+
+<details>
+   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sumit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumit27b&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>   
+
+
+
+
+
+
+
 <!--
 **sumit27b/sumit27b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
