@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jayapritha</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sumit</h1>
 
 - 🌱 I’m currently learning Java programming
 - 🎉 Let's connect [here](https://www.linkedin.com/in/sumitbonde/).
