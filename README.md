@@ -3,19 +3,21 @@
 - 🌱 I’m currently learning Java programming
 - 🎉 Let's connect [here](https://www.linkedin.com/in/sumitbonde/).
 
+<hr>
+<h2 align="center"> ⚡️ Technology Stacks </h2>
 <p align="center">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </p>
 
 
