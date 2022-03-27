@@ -49,7 +49,7 @@
 <details>
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sumit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumit27b&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/sumit27b/github-readme-activity-graph"><img alt="Sumit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumit27b&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>   
 
 
