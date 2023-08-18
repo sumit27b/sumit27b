@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sumit</h1>
 
-- 🌱 I’m currently learning Java programming
+- 🌱 I’m Java Developer
 - 🎉 Let's connect [here](https://www.linkedin.com/in/sumitbonde/).
 
 <hr>
